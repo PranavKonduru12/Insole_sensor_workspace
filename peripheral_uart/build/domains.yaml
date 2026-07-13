@@ -1,0 +1,7 @@
+default: peripheral_uart
+build_dir: C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build
+domains:
+  - name: peripheral_uart
+    build_dir: C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/peripheral_uart
+flash_order:
+  - peripheral_uart
