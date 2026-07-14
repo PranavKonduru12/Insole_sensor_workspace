@@ -107,6 +107,12 @@ int main(void)
     while (1) {
         char data_line[64];
 
+        /*
+        *
+        */
+        //Prints two values in the serial monitor 
+        //where the first number is the runtime of the board
+        //second one is an incremental counter
         snprintf(data_line, sizeof(data_line),
                  "%u,%u\n",
                  k_uptime_get_32(),
