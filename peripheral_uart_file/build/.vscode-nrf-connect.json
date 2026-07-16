@@ -1,0 +1,17 @@
+{
+  "toolchainPath": "c:\\ncs\\toolchains\\dcbdc366a1",
+  "sdkPath": "c:\\ncs\\v3.4.0",
+  "board": "adafruit_feather_nrf52840/nrf52840/sense/uf2",
+  "boardDir": "c:\\ncs\\v3.4.0\\zephyr\\boards\\adafruit\\feather_nrf52840",
+  "boardDirs": [
+    "c:\\ncs\\v3.4.0\\zephyr\\boards\\adafruit\\feather_nrf52840"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}
