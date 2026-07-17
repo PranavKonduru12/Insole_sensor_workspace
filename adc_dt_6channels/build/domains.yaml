@@ -1,0 +1,7 @@
+default: adc_dt_6channels
+build_dir: C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build
+domains:
+  - name: adc_dt_6channels
+    build_dir: C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/adc_dt_6channels
+flash_order:
+  - adc_dt_6channels

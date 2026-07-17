@@ -1,0 +1,25 @@
+cmake:
+  application:
+    source-dir: 'C:/ncs/v3.4.0/zephyr/share/sysbuild'
+  board:
+    name: 'adafruit_feather_nrf52840'
+    path:
+     - 'C:/ncs/v3.4.0/zephyr/boards/adafruit/feather_nrf52840'
+    qualifiers: 'nrf52840/sense/uf2'
+    revision: ''
+  images:
+   - name: 'adc_dt_6channels'
+     source-dir: 'C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels'
+     type: 'MAIN'
+  kconfig:
+    files:
+     - 'C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/empty.conf'
+     - 'C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/empty.conf'
+    user-files:
+     - 'C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/empty.conf'
+  sysbuild: 'true'
+version: '0.1.0'
+west:
+  command: 'C:\ncs\toolchains\dcbdc366a1\opt\bin\Scripts\west build --build-dir c:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build c:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels --pristine --board adafruit_feather_nrf52840/nrf52840/sense/uf2 --sysbuild -- -DDEBUG_THREAD_INFO=Off -Dadc_dt_6channels_DEBUG_THREAD_INFO=Off'
+  topdir: 'c:\ncs\v3.4.0'
+  version: '1.5.0'

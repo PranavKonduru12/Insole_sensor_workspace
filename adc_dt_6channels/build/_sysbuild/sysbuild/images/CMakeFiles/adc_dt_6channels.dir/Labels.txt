@@ -1,0 +1,13 @@
+# Target labels
+ adc_dt_6channels
+# Source files and their labels
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/CMakeFiles/adc_dt_6channels
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/CMakeFiles/adc_dt_6channels.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/CMakeFiles/adc_dt_6channels-complete.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-build.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-configure.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-download.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-install.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-mkdir.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-patch.rule
+C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-update.rule

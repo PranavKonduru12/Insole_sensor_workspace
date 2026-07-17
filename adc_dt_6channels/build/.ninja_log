@@ -1,0 +1,19 @@
+# ninja log v7
+20	97	8059664552127547	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-mkdir	cc2a5f0199ddfa6b
+20	97	8059664552127547	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-mkdir	cc2a5f0199ddfa6b
+98	158	8059664552725315	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-download	cc0496f600cb92b7
+98	158	8059664552725315	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-download	cc0496f600cb92b7
+191	258	8059664553725450	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-update	2d622717e937a5f7
+191	258	8059664553725450	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-update	2d622717e937a5f7
+258	334	8059664554480819	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-patch	58f65f5ff496f22a
+258	334	8059664554480819	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-patch	58f65f5ff496f22a
+334	409	8059664555239439	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-configure	94f4794f6c5d03db
+334	409	8059664555239439	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-configure	94f4794f6c5d03db
+410	6644	8059664555305766	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-build	8b0c8f7ba628aa6e
+410	6644	8059664555305766	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-build	8b0c8f7ba628aa6e
+6645	6689	8059664617651499	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-install	a8fafc5f45687179
+6645	6689	8059664617651499	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-install	a8fafc5f45687179
+6689	6779	8059664618929920	_sysbuild/sysbuild/images/CMakeFiles/adc_dt_6channels-complete	88d8d50be56c91a
+6689	6779	8059664618929920	_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-done	88d8d50be56c91a
+6689	6779	8059664618929920	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/CMakeFiles/adc_dt_6channels-complete	88d8d50be56c91a
+6689	6779	8059664618929920	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/_sysbuild/sysbuild/images/adc_dt_6channels-prefix/src/adc_dt_6channels-stamp/adc_dt_6channels-done	88d8d50be56c91a
