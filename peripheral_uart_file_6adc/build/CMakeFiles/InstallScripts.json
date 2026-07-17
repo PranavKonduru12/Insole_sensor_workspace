@@ -1,15 +1,15 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/modules/nrf/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/modules/mcuboot/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake",
-		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake"
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/modules/nrf/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/modules/mcuboot/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake",
+		"C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

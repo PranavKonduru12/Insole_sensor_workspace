@@ -14,7 +14,7 @@
     "y",
     "default",
     [
-      "c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/Kconfig.sysbuild",
+      "c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/Kconfig.sysbuild",
       11
     ]
   ],
@@ -25,7 +25,7 @@
     "y",
     "default",
     [
-      "c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/Kconfig.sysbuild",
+      "c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/Kconfig.sysbuild",
       14
     ]
   ],
@@ -36,7 +36,7 @@
     "y",
     "default",
     [
-      "c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/Kconfig.sysbuild",
+      "c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/Kconfig.sysbuild",
       17
     ]
   ],
@@ -322,7 +322,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       5
     ]
   ],
@@ -333,7 +333,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       9
     ]
   ],
@@ -344,7 +344,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       12
     ]
   ],
@@ -355,7 +355,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       15
     ]
   ],
@@ -366,7 +366,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       18
     ]
   ],
@@ -377,7 +377,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       21
     ]
   ],
@@ -388,7 +388,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       24
     ]
   ],
@@ -399,7 +399,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       27
     ]
   ],
@@ -410,7 +410,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       30
     ]
   ],
@@ -421,7 +421,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       33
     ]
   ],
@@ -432,7 +432,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       36
     ]
   ],
@@ -443,7 +443,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       39
     ]
   ],
@@ -454,7 +454,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       42
     ]
   ],
@@ -465,7 +465,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       45
     ]
   ],
@@ -476,7 +476,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       48
     ]
   ],
@@ -487,7 +487,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       51
     ]
   ],
@@ -498,7 +498,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       54
     ]
   ],
@@ -509,7 +509,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       57
     ]
   ],
@@ -520,7 +520,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       60
     ]
   ],
@@ -531,7 +531,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       63
     ]
   ],
@@ -542,7 +542,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       66
     ]
   ],
@@ -553,7 +553,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       69
     ]
   ],
@@ -564,7 +564,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       72
     ]
   ],
@@ -575,7 +575,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       75
     ]
   ],
@@ -586,7 +586,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       78
     ]
   ],
@@ -597,7 +597,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       81
     ]
   ],
@@ -608,7 +608,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       84
     ]
   ],
@@ -619,7 +619,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       87
     ]
   ],
@@ -630,7 +630,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       90
     ]
   ],
@@ -641,7 +641,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       93
     ]
   ],
@@ -652,7 +652,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       96
     ]
   ],
@@ -663,7 +663,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       99
     ]
   ],
@@ -674,7 +674,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       102
     ]
   ],
@@ -685,7 +685,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       105
     ]
   ],
@@ -696,7 +696,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       108
     ]
   ],
@@ -707,7 +707,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       111
     ]
   ],
@@ -718,7 +718,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       114
     ]
   ],
@@ -729,7 +729,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       117
     ]
   ],
@@ -740,7 +740,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       120
     ]
   ],
@@ -751,7 +751,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       123
     ]
   ],
@@ -762,7 +762,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       126
     ]
   ],
@@ -773,7 +773,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       129
     ]
   ],
@@ -784,7 +784,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       132
     ]
   ],
@@ -795,7 +795,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       135
     ]
   ],
@@ -806,7 +806,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       138
     ]
   ],
@@ -817,7 +817,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       141
     ]
   ],
@@ -828,7 +828,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       144
     ]
   ],
@@ -839,7 +839,7 @@
     "y",
     "default",
     [
-      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/Kconfig/Kconfig.sysbuild.modules",
+      "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/Kconfig/Kconfig.sysbuild.modules",
       147
     ]
   ],

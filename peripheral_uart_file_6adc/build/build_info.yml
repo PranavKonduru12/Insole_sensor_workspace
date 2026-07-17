@@ -8,18 +8,18 @@ cmake:
     qualifiers: 'nrf52840/sense/uf2'
     revision: ''
   images:
-   - name: 'peripheral_uart_file'
-     source-dir: 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file'
+   - name: 'peripheral_uart_file_6adc'
+     source-dir: 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc'
      type: 'MAIN'
   kconfig:
     files:
-     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/empty.conf'
-     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/empty.conf'
+     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/empty.conf'
+     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/empty.conf'
     user-files:
-     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/empty.conf'
+     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/empty.conf'
   sysbuild: 'true'
 version: '0.1.0'
 west:
-  command: 'C:\ncs\toolchains\dcbdc366a1\opt\bin\Scripts\west build --build-dir c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file --pristine --board adafruit_feather_nrf52840/nrf52840/sense/uf2 -- -DDEBUG_THREAD_INFO=On -DCONFIG_DEBUG_THREAD_INFO=y -Dperipheral_uart_file_DEBUG_THREAD_INFO=On'
+  command: 'C:\ncs\toolchains\dcbdc366a1\opt\bin\Scripts\west build --build-dir c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc --pristine --board adafruit_feather_nrf52840/nrf52840/sense/uf2 -- -DDEBUG_THREAD_INFO=On -DCONFIG_DEBUG_THREAD_INFO=y -Dperipheral_uart_file_6adc_DEBUG_THREAD_INFO=On'
   topdir: 'c:\ncs\v3.4.0'
   version: '1.5.0'

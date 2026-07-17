@@ -1,5 +1,5 @@
 @echo off
-cd /D C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file\build\_sysbuild || (set FAIL_LINE=2& goto :ABORT)
+cd /D C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file_6adc\build\_sysbuild || (set FAIL_LINE=2& goto :ABORT)
 C:\ncs\toolchains\dcbdc366a1\opt\bin\cmake.exe -E echo abrobot_sh1106_72x40 || (set FAIL_LINE=3& goto :ABORT)
 C:\ncs\toolchains\dcbdc366a1\opt\bin\cmake.exe -E echo adafruit_24lc32 || (set FAIL_LINE=4& goto :ABORT)
 C:\ncs\toolchains\dcbdc366a1\opt\bin\cmake.exe -E echo adafruit_2_8_tft_touch_v2 || (set FAIL_LINE=5& goto :ABORT)
