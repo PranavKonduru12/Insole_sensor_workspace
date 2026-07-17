@@ -1,0 +1,13 @@
+# Target labels
+ peripheral_uart_file
+# Source files and their labels
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_uart_file
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_uart_file.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_uart_file-complete.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/peripheral_uart_file-prefix/src/peripheral_uart_file-stamp/peripheral_uart_file-build.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/peripheral_uart_file-prefix/src/peripheral_uart_file-stamp/peripheral_uart_file-configure.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/peripheral_uart_file-prefix/src/peripheral_uart_file-stamp/peripheral_uart_file-download.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/peripheral_uart_file-prefix/src/peripheral_uart_file-stamp/peripheral_uart_file-install.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/peripheral_uart_file-prefix/src/peripheral_uart_file-stamp/peripheral_uart_file-mkdir.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/peripheral_uart_file-prefix/src/peripheral_uart_file-stamp/peripheral_uart_file-patch.rule
+C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/peripheral_uart_file-prefix/src/peripheral_uart_file-stamp/peripheral_uart_file-update.rule

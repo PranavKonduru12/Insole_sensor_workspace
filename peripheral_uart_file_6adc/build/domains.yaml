@@ -1,0 +1,7 @@
+default: peripheral_uart_file
+build_dir: C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build
+domains:
+  - name: peripheral_uart_file
+    build_dir: C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/peripheral_uart_file
+flash_order:
+  - peripheral_uart_file
