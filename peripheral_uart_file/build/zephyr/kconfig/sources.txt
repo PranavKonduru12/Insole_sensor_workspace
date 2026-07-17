@@ -1,9 +1,9 @@
-C:\LocalWorkspace\embedded_projects_fromSDK_local\peripheral_uart\Kconfig.sysbuild
-C:\LocalWorkspace\embedded_projects_fromSDK_local\peripheral_uart\build\Kconfig\Kconfig.sysbuild.modules
-C:\LocalWorkspace\embedded_projects_fromSDK_local\peripheral_uart\build\Kconfig\boards\Kconfig.adafruit_feather_nrf52840
-C:\LocalWorkspace\embedded_projects_fromSDK_local\peripheral_uart\build\Kconfig\boards\Kconfig.sysbuild
-C:\LocalWorkspace\embedded_projects_fromSDK_local\peripheral_uart\build\Kconfig\soc\Kconfig.soc
-C:\LocalWorkspace\embedded_projects_fromSDK_local\peripheral_uart\build\Kconfig\soc\Kconfig.sysbuild
+C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file\Kconfig.sysbuild
+C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file\build\Kconfig\Kconfig.sysbuild.modules
+C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file\build\Kconfig\boards\Kconfig.adafruit_feather_nrf52840
+C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file\build\Kconfig\boards\Kconfig.sysbuild
+C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file\build\Kconfig\soc\Kconfig.soc
+C:\LocalWorkspace\Insole_sensor_workspace\peripheral_uart_file\build\Kconfig\soc\Kconfig.sysbuild
 C:\ncs\v3.4.0\nrf\soc\nordic\Kconfig.soc
 C:\ncs\v3.4.0\nrf\soc\nordic\Kconfig.sysbuild
 C:\ncs\v3.4.0\nrf\soc\nordic\common\vpr\Kconfig.sysbuild

@@ -34,37 +34,37 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/modules/nrf/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/modules/nrf/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/modules/mcuboot/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/modules/mcuboot/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/LocalWorkspace/embedded_projects_fromSDK_local/peripheral_uart/build/_sysbuild/sysbuild/images/install_local_manifest.txt"
+  file(WRITE "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file/build/_sysbuild/sysbuild/images/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

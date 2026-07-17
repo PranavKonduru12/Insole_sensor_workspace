@@ -11,6 +11,9 @@
 
 static bool ble_connected = false;
 static struct bt_conn *current_conn = NULL;
+static bool header_sent = false;
+static const char csv_header[] =
+    "timestamp,p1,p2,p3,p4,p5,p6,ax,ay,az,gx,gy,gz\n";
 
 static const struct bt_data ad[] = {
     BT_DATA_BYTES(BT_DATA_FLAGS, BT_LE_AD_GENERAL | BT_LE_AD_NO_BREDR),
@@ -48,6 +51,8 @@ static void connected(struct bt_conn *conn, uint8_t err)
 
     current_conn = bt_conn_ref(conn);
     ble_connected = true;
+    header_sent = false;
+
     printk("BLE connected\n");
 }
 
@@ -103,32 +108,59 @@ int main(void)
     }
 
     printk("Advertising as %s\n", DEVICE_NAME);
+    printk("%s", csv_header);
 
     while (1) {
-        char data_line[64];
+        char data_line[128];
 
-        /*
-        *
-        */
-        //Prints two values in the serial monitor 
-        //where the first number is the runtime of the board
-        //second one is an incremental counter
+        uint32_t timestamp = k_uptime_get_32();
+
+        uint16_t p1 = 120 + (counter % 10);
+        uint16_t p2 = 135 + (counter % 8);
+        uint16_t p3 = 98  + (counter % 6);
+        uint16_t p4 = 102 + (counter % 7);
+        uint16_t p5 = 150 + (counter % 5);
+        uint16_t p6 = 140 + (counter % 9);
+
+        int16_t ax = 10 + counter;
+        int16_t ay = -5;
+        int16_t az = 981;
+        int16_t gx = 2;
+        int16_t gy = 1;
+        int16_t gz = -1;
+
         snprintf(data_line, sizeof(data_line),
-                 "%u,%u\n",
-                 k_uptime_get_32(),
-                 counter++);
+                "%u,%u,%u,%u,%u,%u,%u,%d,%d,%d,%d,%d,%d\n",
+                timestamp,
+                p1, p2, p3, p4, p5, p6,
+                ax, ay, az, gx, gy, gz);
 
         printk("%s", data_line);
 
         if (ble_connected && current_conn) {
-            err = bt_nus_send(current_conn,
-                              data_line,
-                              strlen(data_line));
-            if (err) {
-                printk("BLE send failed: %d\n", err);
+            if (!header_sent) {
+                err = bt_nus_send(current_conn, csv_header, strlen(csv_header));
+
+                if (err == 0) {
+                    header_sent = true;
+                    printk("CSV header sent\n");
+
+                    err = bt_nus_send(current_conn, data_line, strlen(data_line));
+                    if (err) {
+                        printk("BLE send failed: %d\n", err);
+                    }
+                } else {
+                    printk("Header send failed: %d\n", err);
+                }
+            } else {
+                err = bt_nus_send(current_conn, data_line, strlen(data_line));
+                if (err) {
+                    printk("BLE send failed: %d\n", err);
+                }
             }
         }
 
-        k_sleep(K_MSEC(1000));
+        counter++;
+        k_sleep(K_MSEC(500));
     }
 }
