@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_uart_file_6adc"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_uart_file_6adc.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/CMakeFiles/peripheral_uart_file_6adc-complete.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/peripheral_uart_file_6adc-prefix/src/peripheral_uart_file_6adc-stamp/peripheral_uart_file_6adc-build.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/peripheral_uart_file_6adc-prefix/src/peripheral_uart_file_6adc-stamp/peripheral_uart_file_6adc-configure.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/peripheral_uart_file_6adc-prefix/src/peripheral_uart_file_6adc-stamp/peripheral_uart_file_6adc-download.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/peripheral_uart_file_6adc-prefix/src/peripheral_uart_file_6adc-stamp/peripheral_uart_file_6adc-install.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/peripheral_uart_file_6adc-prefix/src/peripheral_uart_file_6adc-stamp/peripheral_uart_file_6adc-mkdir.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/peripheral_uart_file_6adc-prefix/src/peripheral_uart_file_6adc-stamp/peripheral_uart_file_6adc-patch.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc/build/_sysbuild/sysbuild/images/peripheral_uart_file_6adc-prefix/src/peripheral_uart_file_6adc-stamp/peripheral_uart_file_6adc-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"peripheral_uart_file_6adc"
+		],
+		"name" : "peripheral_uart_file_6adc"
+	}
+}

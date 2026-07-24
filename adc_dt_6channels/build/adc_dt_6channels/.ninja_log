@@ -265,3 +265,5 @@
 5390	6165	8059664614771591	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/adc_dt_6channels/zephyr/zephyr.bin	dfaf9dec17547792
 5390	6165	8059664614771591	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/adc_dt_6channels/zephyr/zephyr.uf2	dfaf9dec17547792
 5390	6165	8059664614771591	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/adc_dt_6channels/zephyr/zephyr.stat	dfaf9dec17547792
+669	2441	8065648329738128	zephyr/cmake/reports/CMakeFiles/ram_report	47f4c87842f71672
+669	2441	8065648329738128	C:/LocalWorkspace/embedded_projects_fromSDK_local/adc_dt_6channels/build/adc_dt_6channels/zephyr/cmake/reports/CMakeFiles/ram_report	47f4c87842f71672
