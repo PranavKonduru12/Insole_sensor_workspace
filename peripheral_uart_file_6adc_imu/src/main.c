@@ -38,7 +38,7 @@
 
 /*
  * Repeat the CSV header over BLE after this many successfully
- * transmitted data rows.
+ * transmitted data rows. (Print header after 500 rows) 
  */
 #define CSV_HEADER_INTERVAL_ROWS 500U
 
