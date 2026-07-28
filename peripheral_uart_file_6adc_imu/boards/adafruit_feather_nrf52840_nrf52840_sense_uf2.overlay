@@ -88,3 +88,12 @@
 		};
 	};
 };
+&i2c0 {
+    status = "okay";
+
+    lsm6ds3tr_c: lsm6ds3tr-c@6a {
+        compatible = "st,lsm6dsl";
+        reg = <0x6a>;
+        irq-gpios = <&gpio1 11 GPIO_ACTIVE_HIGH>;
+    };
+};
