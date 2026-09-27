@@ -35,6 +35,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/sysbuild/images/firmware_loader/install_local_manifest.txt"
+  file(WRITE "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/firmware_loader/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

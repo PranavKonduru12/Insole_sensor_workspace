@@ -34,37 +34,37 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/firmware_loader/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/modules/nrf/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/modules/nrf/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/modules/mcuboot/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/modules/mcuboot/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake")
+  include("C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/sysbuild/images/install_local_manifest.txt"
+  file(WRITE "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

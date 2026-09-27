@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/CMakeFiles/BLE_6adc_imu_power_save"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/CMakeFiles/BLE_6adc_imu_power_save.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/CMakeFiles/BLE_6adc_imu_power_save-complete.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/BLE_6adc_imu_power_save-prefix/src/BLE_6adc_imu_power_save-stamp/BLE_6adc_imu_power_save-build.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/BLE_6adc_imu_power_save-prefix/src/BLE_6adc_imu_power_save-stamp/BLE_6adc_imu_power_save-configure.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/BLE_6adc_imu_power_save-prefix/src/BLE_6adc_imu_power_save-stamp/BLE_6adc_imu_power_save-download.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/BLE_6adc_imu_power_save-prefix/src/BLE_6adc_imu_power_save-stamp/BLE_6adc_imu_power_save-install.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/BLE_6adc_imu_power_save-prefix/src/BLE_6adc_imu_power_save-stamp/BLE_6adc_imu_power_save-mkdir.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/BLE_6adc_imu_power_save-prefix/src/BLE_6adc_imu_power_save-stamp/BLE_6adc_imu_power_save-patch.rule"
+		},
+		{
+			"file" : "C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/sysbuild/images/BLE_6adc_imu_power_save-prefix/src/BLE_6adc_imu_power_save-stamp/BLE_6adc_imu_power_save-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BLE_6adc_imu_power_save"
+		],
+		"name" : "BLE_6adc_imu_power_save"
+	}
+}

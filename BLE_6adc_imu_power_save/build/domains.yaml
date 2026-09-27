@@ -1,7 +1,7 @@
-default: peripheral_uart_file_6adc_imu
-build_dir: C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build
+default: BLE_6adc_imu_power_save
+build_dir: C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build
 domains:
-  - name: peripheral_uart_file_6adc_imu
-    build_dir: C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/peripheral_uart_file_6adc_imu
+  - name: BLE_6adc_imu_power_save
+    build_dir: C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/BLE_6adc_imu_power_save
 flash_order:
-  - peripheral_uart_file_6adc_imu
+  - BLE_6adc_imu_power_save

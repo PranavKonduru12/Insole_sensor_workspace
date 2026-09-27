@@ -1,0 +1,6 @@
+west:
+  command: C:\ncs\toolchains\dcbdc366a1\opt\bin\Lib\site-packages\west\__main__.py
+    build -b adafruit_feather_nrf52840/nrf52840/sense/uf2 -d build_power -- -DCONF_FILE=prj_power_test
+    .conf
+  topdir: C:\ncs\v3.4.0
+  version: 1.5.0

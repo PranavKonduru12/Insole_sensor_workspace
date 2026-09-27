@@ -1,0 +1,7 @@
+default: BLE_6adc_imu_power_save
+build_dir: C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build_no_ble_serial
+domains:
+  - name: BLE_6adc_imu_power_save
+    build_dir: C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build_no_ble_serial/BLE_6adc_imu_power_save
+flash_order:
+  - BLE_6adc_imu_power_save

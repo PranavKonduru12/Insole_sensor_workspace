@@ -8,18 +8,18 @@ cmake:
     qualifiers: 'nrf52840/sense/uf2'
     revision: ''
   images:
-   - name: 'peripheral_uart_file_6adc_imu'
-     source-dir: 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu'
+   - name: 'BLE_6adc_imu_power_save'
+     source-dir: 'C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save'
      type: 'MAIN'
   kconfig:
     files:
-     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/empty.conf'
-     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/empty.conf'
+     - 'C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/empty.conf'
+     - 'C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/empty.conf'
     user-files:
-     - 'C:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build/_sysbuild/empty.conf'
+     - 'C:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build/_sysbuild/empty.conf'
   sysbuild: 'true'
 version: '0.1.0'
 west:
-  command: 'C:\ncs\toolchains\dcbdc366a1\opt\bin\Scripts\west build --build-dir c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu/build c:/LocalWorkspace/Insole_sensor_workspace/peripheral_uart_file_6adc_imu --pristine --board adafruit_feather_nrf52840/nrf52840/sense/uf2 -- -DDEBUG_THREAD_INFO=On -DCONFIG_DEBUG_THREAD_INFO=y -Dperipheral_uart_file_6adc_imu_DEBUG_THREAD_INFO=On'
+  command: 'C:\ncs\toolchains\dcbdc366a1\opt\bin\Scripts\west build --build-dir c:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save/build c:/LocalWorkspace/Insole_sensor_workspace/BLE_6adc_imu_power_save --pristine --board adafruit_feather_nrf52840/nrf52840/sense/uf2 -- -DDEBUG_THREAD_INFO=On -DCONFIG_DEBUG_THREAD_INFO=y -DBLE_6adc_imu_power_save_DEBUG_THREAD_INFO=On'
   topdir: 'c:\ncs\v3.4.0'
   version: '1.5.0'
